@@ -1,4 +1,4 @@
-![Zrzut ekranu 2024-10-11 160114](https://github.com/user-attachments/assets/c89bfe65-e1c3-4d39-b00a-b135b1955270)# Fabric.js TEST
+# Fabric.js TEST
 
 This project is a simple image editor built using Fabric.js. Users can upload an image to the canvas, add shapes, text, and custom elements, and manipulate them on the canvas. The background image remains fixed and cannot be moved or resized, but custom elements can be manipulated. Additionally, users can download the edited image or clear the canvas while keeping the background image intact.
 
